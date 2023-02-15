@@ -1,16 +1,16 @@
-# Bootstrap-5-and-SASS-Course
+# **Bootstrap 5 and SASS Course**
 
-Bootstrap 5 and SASS Course from Youtube.
+## **Bootstrap 5 and SASS Course from Youtube.**
 
-The course goal was to make a modern website for a bussiness and i believe i have done a good job learning how to do it and just understanding more about web
-development.Things i have learned:
+**The course goal was to make a modern website for a bussiness and i believe i have done a good job learning how to do it and just understanding more about web
+development.Things i have learned:**
 
--installing assets that can work with code
+1. **_installing assets that can work with code_**
 
--nesting css for more logical thinking
+1. **_nesting css for more logical thinking_**
 
--emmet abbreviation in VSCode
+1. **_emmet abbreviation in VSCode_**
 
--organizing files
+1. **_organizing files_**
 
--being creative
+1. **_being creative_**
